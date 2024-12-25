@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max Li</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Frontend developer</h3>
 
-- 💬 Ask me about **Vue，React**
+- 💬 Ask me about **Starting from January 2024, I will strive for a web page that has both beauty and performance.**
 
 - 📫 How to reach me **akomplice118@gmail.com**
 
